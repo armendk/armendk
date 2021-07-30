@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Armend
-#### A passionate _Data Scientist_ from Germany.
+#### A passionate _Data Scientist_ based in Munich 🍺🥨🇩🇪
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
