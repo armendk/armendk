@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Armend
 #### A passionate _Data Scientist_ from Germany.
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 🔭 I’m currently working on old ideas.
 - 🌱 I’m currently learning how to use AI for sustainable development goals.
 - 💬 Ask me about (_almost_) anything.
@@ -11,9 +13,10 @@
 <a href="https://linkedin.com/in/armendkabashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armendkabashi" height="30" width="40" /></a>  
 </p>  
   
-#### Languages and Tools:
+#### 🛠 Languages and Tools:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
