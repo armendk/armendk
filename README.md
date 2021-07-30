@@ -3,9 +3,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently working on old ideas.
-- 🌱 I’m currently learning how to use AI for sustainable development goals.
-- 💬 Ask me about (_almost_) anything.
+- 🔭 I’m currently working on old ideas
+- 🌱 I’m currently learning how to use AI for sustainable development goals
+- 💬 Ask me about (_almost_) anything
+- 🚀 Creator of ![Rabbitique]("https://www.rabbitique.com/")
   
 #### Connect with me:
 <p align="left">  
